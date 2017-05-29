@@ -7,11 +7,14 @@
 .sub-photo {
   width:15.625rem;
   border: 1px solid pink;
-  margin: 
+  margin: 5px 5px 5px 5px;
 }
 .title {
   font-family: Verdana;
 }
 .main-text {
   font-family: Verdana;
+}
+.main-body {
+  text-align: center;
 }
