@@ -1,0 +1,17 @@
+.main-photo {
+  width:31.25rem;
+  display: block;
+  border: 1px solid pink;
+  margin: 0 auto
+}
+.sub-photo {
+  width:15.625rem;
+  border: 1px solid pink;
+  margin: 
+}
+.title {
+  font-family: Verdana;
+}
+.main-text {
+  font-family: Verdana;
+}
